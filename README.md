@@ -1,2 +1,2 @@
 # native
-This is th react native library hub
+This is the react native library hub
