@@ -1,6 +1,5 @@
 
-import { NativeModules } from 'react-native';
+import App from './Component/button';
 
-const { RNMyLibrary } = NativeModules;
 
-export default RNMyLibrary;
+export default App;

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Alert, Text, TouchableOpacity, StyleSheet } from 'react-native'
 
-const AlertExample = () => {
+const button = () => {
    const showAlert = () =>{
       Alert.alert(
          'You need to...'
